@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizApplication</string>
+    <string name="appbar_title"><b>Anatomy Intro Assessment</b></string>
+    <string name="questions"><b> Questions . </b></string>
+    <string name="quiz_timer"><b>Quiz Timer: </b></string>
+    <string name="quiz_finished"><b>Quiz Timer: </b>Quiz Finished</string>
+    <string name="uiBtnSubmit">Submit</string>
+</resources>

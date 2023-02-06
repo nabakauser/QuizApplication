@@ -1,0 +1,105 @@
+{
+  "status_code": 200,
+  "status": true,
+  "message": "Data retrieved",
+  "questions": [
+    {
+      "attachments": {
+        "url": "attachment Url",
+        "name": "attachment Name"
+      },
+      "_id": "1234",
+      "text": "Question 01",
+      "questionType": "MCQ",
+      "options": [
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "23467",
+          "text": "Option 1",
+          "answer": false
+        },
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "7685",
+          "text": "Option 2",
+          "answer": false
+        },
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "1234",
+          "text": "Option 3",
+          "answer": false
+        }
+      ],
+      "order": 1
+    },
+    {
+      "attachments": {
+        "url": "attachment Url",
+        "name": "attachment Name"
+      },
+      "_id": "8979",
+      "text": "Question 02",
+      "questionType": "MCQ",
+      "options": [
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "2345",
+          "text": "Option 1",
+          "answer": false
+        }, {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "9087",
+          "text": "Option 2",
+          "answer": false
+        }
+      ],
+      "order": 1
+    },
+    {
+      "attachments": {
+        "url": "attachment Url",
+        "name": "attachment Name"
+      },
+      "_id": "9086",
+      "text": "Question 03",
+      "questionType": "MCQ",
+      "options": [
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "4563",
+          "text": "Option 1",
+          "answer": false
+        },
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "_id": "7589",
+          "text": "Option 2",
+          "answer": false
+        }
+      ],
+      "order": 1
+    }
+  ]
+}
